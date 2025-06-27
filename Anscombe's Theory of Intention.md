@@ -26,7 +26,7 @@ This asymmetry creates fundamental challenges for [[Theory of Mind]] processes a
 
 Anscombe's work directly influences:
 - [[Planning Theory]] through its emphasis on intention as distinct from mere desire
-- [[Phenomenological Approaches]] by highlighting the first-person perspective
+- [[Husserlian Phenomenology]] by highlighting the first-person perspective
 - [[Non-Causalist Theories]] through her resistance to simple causal models
 - [[Ethics of Care]] in recognizing the interpretive challenges in relationships
 
@@ -43,4 +43,4 @@ Anscombe's framework remains foundational for understanding:
 While comprehensive, Anscombe's framework has been critiqued for:
 - Insufficient attention to social and cultural context (addressed by [[Hermeneutic Phenomenology]])
 - Limited consideration of embodied and pre-reflective action (developed by [[Embodied Phenomenology]])
-- Potential over-intellectualization of everyday action (challenged by [[Deweyan Instrumentalism]])
+- Potential over-intellectualization of everyday action (challenged by [[Pragmatic Approaches]])

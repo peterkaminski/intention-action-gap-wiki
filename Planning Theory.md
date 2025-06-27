@@ -39,7 +39,7 @@ Bratman's theory directly addresses gaps between:
 ## Connections to Other Frameworks
 
 **Complements**: 
-- [[Deweyan Instrumentalism]] through focus on practical problem-solving
+- [[Pragmatic Approaches]] through focus on practical problem-solving
 - [[Reasoned Action Approach]] by providing psychological mechanisms for behavioral prediction
 
 **Tensions with**:

@@ -103,7 +103,7 @@ Embodied phenomenology enhances synthesis by:
 
 **With [[Chinese Philosophy]]**: Strong resonance with Daoist emphasis on wu wei and embodied spontaneity
 
-**With [[Deweyan Instrumentalism]]**: Shared emphasis on embodied learning through environmental engagement
+**With [[Pragmatic Approaches]]**: Shared emphasis on embodied learning through environmental engagement
 
 **With [[Planning Theory]]**: Tension but potential integration around embodied skill supporting explicit planning
 

@@ -37,7 +37,7 @@ An ideal observer is characterized by:
 - [[Theory of Mind]] by representing perfect mentalizing ability
 
 **Tensions with**:
-- [[Phenomenological Approaches]] that prioritize lived experience over objective judgment
+- [[Husserlian Phenomenology]] and [[Embodied Phenomenology]] that prioritize lived experience over objective judgment
 - [[Embodied Phenomenology]] emphasis on situated, partial perspectives
 - [[Chinese Philosophy]] concepts that question the possibility or desirability of complete impartiality
 
@@ -88,6 +88,6 @@ Modern versions of Ideal Observer Theory engage with:
 
 While valuable, Ideal Observer Theory's abstractness limits its ability to:
 - Address [[Embodied Phenomenology]] insights about bodily knowledge
-- Incorporate [[Deweyan Instrumentalism]] emphasis on experimental learning
+- Incorporate [[Pragmatic Approaches]] emphasis on experimental learning
 - Handle [[Planning Theory]] insights about practical coordination
 - Respect [[Chinese Philosophy]] alternative conceptions of wisdom and judgment

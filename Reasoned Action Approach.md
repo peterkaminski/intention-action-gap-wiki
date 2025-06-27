@@ -77,7 +77,7 @@ The RAA proves useful for:
 
 **Individual Focus**: Underemphasizes [[Ethics of Care]] relational dimensions and [[Hermeneutic Phenomenology]] cultural-linguistic context
 
-**Static Model**: Doesn't capture [[Deweyan Instrumentalism]] emphasis on learning and adaptation through action
+**Static Model**: Doesn't capture [[Pragmatic Approaches]] emphasis on learning and adaptation through action
 
 **Western Bias**: May not apply to [[Chinese Philosophy]] concepts of collective agency and wu wei
 

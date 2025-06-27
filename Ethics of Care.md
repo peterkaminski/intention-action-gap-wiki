@@ -92,7 +92,7 @@ Ethics of Care enhances synthesis by:
 
 ## Integration with Other Frameworks
 
-**With [[Phenomenological Approaches]]**: Shared emphasis on situated, embodied experience and rejection of abstract universalism
+**With [[Husserlian Phenomenology]] and [[Embodied Phenomenology]]**: Shared emphasis on situated, embodied experience and rejection of abstract universalism
 
 **With [[Theory of Mind]]**: Enriching understanding of how emotional relationships affect mental state attribution
 
@@ -113,5 +113,5 @@ Modern care ethics engages with:
 Emerging areas include:
 - Integration with [[Theory of Mind]] research on empathy and emotional understanding
 - Cross-cultural validation with non-Western care traditions
-- Applications to [[Deweyan Instrumentalism]] educational philosophy
+- Applications to [[Pragmatic Approaches]] educational philosophy
 - Connections to [[Embodied Phenomenology]] research on emotional embodiment

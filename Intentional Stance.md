@@ -45,10 +45,10 @@ Unlike [[Anscombe's Theory of Intention]], Dennett explicitly addresses:
 **Aligns with**:
 - [[Pragmatic Approaches]] emphasis on what works over what's "true"
 - [[Theory of Mind]] research on attribution processes
-- [[Deweyan Instrumentalism]] focus on practical consequences
+- [[Pragmatic Approaches]] focus on practical consequences
 
 **Challenges**:
-- [[Phenomenological Approaches]] claims about first-person authority
+- [[Husserlian Phenomenology]] claims about first-person authority
 - [[Planning Theory]] assumption that intentions are real mental structures
 - [[Ethics of Care]] emphasis on genuine understanding vs. strategic attribution
 

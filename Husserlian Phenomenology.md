@@ -100,7 +100,7 @@ Modern Husserlian research engages with:
 
 **With [[Chinese Philosophy]]**: Potential dialogue around consciousness, meditation, and intentionless action
 
-**With [[Deweyan Instrumentalism]]**: Tension between meaning-focus and practical-focus, but potential synthesis around experience
+**With [[Pragmatic Approaches]]**: Tension between meaning-focus and practical-focus, but potential synthesis around experience
 
 **With [[Theory of Mind]]**: Empirical validation of phenomenological insights about empathy and intersubjectivity
 

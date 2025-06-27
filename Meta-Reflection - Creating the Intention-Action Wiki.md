@@ -68,7 +68,7 @@ The interconnected wiki format proved to be more than just an organizational too
 - **Remains open**: New frameworks can be added without disrupting existing structure
 
 ### **The Double-Bracket Link Innovation**
-Using [[Framework Links]] throughout the articles created several benefits:
+Using double-bracket links throughout the articles created several benefits:
 - **Cognitive mapping**: Helped visualize the conceptual landscape
 - **Synthesis discovery**: Revealed unexpected connections between distant frameworks
 - **Practical guidance**: Showed users when and how to combine approaches

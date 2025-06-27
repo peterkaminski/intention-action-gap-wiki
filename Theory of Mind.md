@@ -65,7 +65,7 @@ Unlike purely philosophical frameworks, Theory of Mind research provides:
 Theory of Mind research helps synthesize other frameworks by:
 - Providing empirical constraints on philosophical theories
 - Revealing when different interpretive strategies are developmentally or culturally preferred
-- Showing how [[Pragmatic Approaches]] and [[Phenomenological Approaches]] might be integrated through embodied simulation mechanisms
+- Showing how [[Pragmatic Approaches]] and [[Embodied Phenomenology]] might be integrated through embodied simulation mechanisms
 
 ## Applications
 
@@ -86,5 +86,5 @@ Research findings inform:
 Emerging research areas include:
 - Integration with [[Embodied Phenomenology]] through 4E cognition approaches
 - Cross-cultural validation of core findings
-- Applications to [[Deweyan Instrumentalism]] educational contexts
+- Applications to [[Pragmatic Approaches]] educational contexts
 - Connections to [[Pragmatic Approaches]] in applied social settings
