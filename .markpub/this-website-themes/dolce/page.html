@@ -37,9 +37,9 @@
       {% endif %}
     </div>
   </div>
+  {% include '_footer.html' %}
   {% if bluesky_comments_post %}
   <div id="bluesky-comments"></div>
-  <script src="{{websiteroot}}/markpub-static/js/script.js"></script>
   <script type="importmap">
     {
 	"imports": {
@@ -58,6 +58,6 @@
     });
   </script>
   {% endif %}
-  {% include '_footer.html' %}
+  <script src="{{websiteroot}}/markpub-static/js/script.js"></script>
 </body>
 </html>
