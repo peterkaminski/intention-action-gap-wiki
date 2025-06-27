@@ -18,6 +18,7 @@
     {% endif %}
     {% if lunr_posts_sitepath != '' %}
     <script src="{{lunr_posts_sitepath}}"></script>
-    <script> function randomPageLink() { return "{{websiteroot}}"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
     {% endif %}
+    <script> function randomPageLink() { return "{{websiteroot}}"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    <script src="/markpub-static/js/script.js"></script>
   </head>
