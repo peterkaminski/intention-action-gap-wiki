@@ -7,7 +7,7 @@
 
 Download a [zip file of
 all pages](https://github.com/peterkaminski/intention-action-gap-wiki/archive/refs/heads/main.zip)
-for Obsidian
+for Obsidian or LLMs.
 
 **WORK IN PROGRESS:  
 PAGES NOT YET REVIEWED BY  
