@@ -14,7 +14,7 @@ The wiki is designed with multiple entry points depending on your interests and 
 - **[[Framework Navigation Guide]]** - Practical guide for selecting and combining frameworks based on your specific context and goals  
 - **[[Philosophical Frameworks - Intention, Action, and Interpretation]]** - Side-by-side comparison table showing how each framework handles the four core elements
 - **[[Synthesis Overview]]** - How different frameworks can be integrated for more comprehensive understanding
-- **[[Meta-Reflection: Creating the Intention-Action Wiki]]** - Methodological insights from the wiki creation process and broader implications for philosophical synthesis
+- **[[Meta-Reflection - Creating the Intention-Action Wiki]]** - Methodological insights from the wiki creation process and broader implications for philosophical synthesis
 
 ## Four-Part Analytical Framework
 
