@@ -1,6 +1,7 @@
 # Site Navigation
 
 [[README|Home]]  
+[[Wiki Index]]  
 [Search](/search.html)  
 [All Pages](/all-pages.html)  
 
