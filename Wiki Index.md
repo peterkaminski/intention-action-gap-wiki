@@ -6,6 +6,7 @@ This wiki explores how different philosophical traditions understand the relatio
 
 ### **Getting Started**
 - [[Framework Navigation Guide]] - Practical guide for selecting and combining frameworks based on context and goals
+- [[Philosophical Frameworks - Intention, Action, and Interpretation]] - Comprehensive comparison table of all frameworks
 - [[Synthesis Overview]] - How different frameworks can be integrated for comprehensive understanding
 - [[Meta-Reflection - Creating the Intention-Action Wiki]] - Methodological insights from the wiki creation process
 

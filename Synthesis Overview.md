@@ -14,6 +14,10 @@ No single framework captures all aspects of intention-action relationships. The 
 - **Cultural context**: [[Chinese Philosophy]] for collectivist settings, Western frameworks for individualist contexts
 - **Practical goals**: [[Reasoned Action Approach]] for behavior change, [[Anscombe's Theory of Intention]] for moral evaluation
 
+## Framework Comparison
+
+For detailed comparison of how each framework handles the four-part structure, see [[Philosophical Frameworks - Intention, Action, and Interpretation]].
+
 ## Three-Level Integration Model
 
 ### **Level 1: Phenomenological Foundation**
