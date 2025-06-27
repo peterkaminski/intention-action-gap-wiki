@@ -3,7 +3,6 @@
 [[README|Home]]  
 [Search](/search.html)  
 [All Pages](/all-pages.html)  
-[[What's New]]  
 
 **WORK IN PROGRESS: NO PAGES  
 REVIEWED BY HUMAN EXPERTS.  
