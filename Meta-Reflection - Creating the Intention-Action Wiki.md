@@ -8,7 +8,7 @@ This meta-reflection examines the process of creating this philosophical wiki, t
 The original document provided an impressive survey of seven philosophical frameworks addressing stated intentions, actual intentions, observed actions, and observer perspectives. This foundation revealed both the sophistication of existing philosophical work and the need for better integration across approaches.
 
 ### **The Four-Part Framework as Organizing Principle**
-Peter Kaminski's original inquiry identified a crucial insight: the relationships between stated intentions, actual intentions, observed actions, and observer perspectives form a natural organizing structure that cuts across philosophical traditions. This four-part framework proved to be:
+[[Peter Kaminski's original inquiry]] identified a crucial insight: the relationships between stated intentions, actual intentions, observed actions, and observer perspectives form a natural organizing structure that cuts across philosophical traditions. This four-part framework proved to be:
 
 - **Analytically powerful**: Revealing how different traditions handle the same fundamental relationships
 - **Practically relevant**: Capturing real-world complexities in legal, therapeutic, educational, and interpersonal contexts
